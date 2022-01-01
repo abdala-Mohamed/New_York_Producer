@@ -1,0 +1,14 @@
+{
+    "type":"record",
+    "namespace":"kudu_tables",
+    "name""kudu1",
+    "fields": [
+      {
+        "name":"name",
+        "type":"string"
+      },{
+        "name":"name2",
+        "type":"string"
+      }
+    ]
+  }
